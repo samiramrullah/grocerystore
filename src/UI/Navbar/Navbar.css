@@ -1,0 +1,36 @@
+.Navbar_main{
+    display: flex;
+    width: 100%;
+    background-color: rgba(0, 11, 161, 0.8);
+    height: 80px;
+    color: white;
+    position: sticky;
+}
+.logo{
+    float: left;
+    width: 25%;
+    padding-left: 2rem;
+    padding-top: 1rem;
+}
+.links_page{
+    width: 40%;
+    display: flex;
+    color: white;
+}
+.link{
+    padding-left: 5rem;
+    padding-top: 1rem;
+    text-decoration: none;
+    color: white;
+    text-transform: uppercase;
+}
+.Navbar_button{
+    float: left;
+    padding-top: 1rem;
+    margin-left: 10rem;
+    display: flex;
+}
+
+.search_button{
+    background-color: white;
+}

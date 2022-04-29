@@ -1,0 +1,30 @@
+ .Products_main{
+min-width: 500px;
+background-color: rgb(138, 138, 217);
+} 
+/* .hey{
+    margin-top: 2rem;
+    margin-left: 5rem;
+} */
+.row {
+  padding-left: 10px;
+}
+.col {
+  padding-top: 2rem;
+}
+/* .Products_main{
+    width: 100%;
+    height: 100%;
+    background-color: red;
+    display: flex;
+    flex-direction: column;
+} */
+button {
+  padding-right: 2rem;
+  text-align: center;
+}
+.products {
+  width: 100%;
+  height: 100%;
+  /* background-color: wheat; */
+}
